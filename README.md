@@ -1,24 +1,7 @@
-# README
+# 🌱 Basic Task application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 🌱 Basic first Task application on Rails
 
-Things you may want to cover:
+- Basic first Task application on Rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2022-03-15 115610](https://user-images.githubusercontent.com/93057752/158451215-b651e4e4-28bf-4151-8e0f-1c23976bdf19.png)
